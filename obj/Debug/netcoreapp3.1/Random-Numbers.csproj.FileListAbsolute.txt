@@ -1,0 +1,13 @@
+C:\Users\Melody Stern\workspace\csharp\exercises\lists\Random-Numbers\bin\Debug\netcoreapp3.1\Random-Numbers.exe
+C:\Users\Melody Stern\workspace\csharp\exercises\lists\Random-Numbers\bin\Debug\netcoreapp3.1\Random-Numbers.deps.json
+C:\Users\Melody Stern\workspace\csharp\exercises\lists\Random-Numbers\bin\Debug\netcoreapp3.1\Random-Numbers.runtimeconfig.json
+C:\Users\Melody Stern\workspace\csharp\exercises\lists\Random-Numbers\bin\Debug\netcoreapp3.1\Random-Numbers.runtimeconfig.dev.json
+C:\Users\Melody Stern\workspace\csharp\exercises\lists\Random-Numbers\bin\Debug\netcoreapp3.1\Random-Numbers.dll
+C:\Users\Melody Stern\workspace\csharp\exercises\lists\Random-Numbers\bin\Debug\netcoreapp3.1\Random-Numbers.pdb
+C:\Users\Melody Stern\workspace\csharp\exercises\lists\Random-Numbers\obj\Debug\netcoreapp3.1\Random-Numbers.csprojAssemblyReference.cache
+C:\Users\Melody Stern\workspace\csharp\exercises\lists\Random-Numbers\obj\Debug\netcoreapp3.1\Random-Numbers.AssemblyInfoInputs.cache
+C:\Users\Melody Stern\workspace\csharp\exercises\lists\Random-Numbers\obj\Debug\netcoreapp3.1\Random-Numbers.AssemblyInfo.cs
+C:\Users\Melody Stern\workspace\csharp\exercises\lists\Random-Numbers\obj\Debug\netcoreapp3.1\Random-Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Melody Stern\workspace\csharp\exercises\lists\Random-Numbers\obj\Debug\netcoreapp3.1\Random-Numbers.dll
+C:\Users\Melody Stern\workspace\csharp\exercises\lists\Random-Numbers\obj\Debug\netcoreapp3.1\Random-Numbers.pdb
+C:\Users\Melody Stern\workspace\csharp\exercises\lists\Random-Numbers\obj\Debug\netcoreapp3.1\Random-Numbers.genruntimeconfig.cache
